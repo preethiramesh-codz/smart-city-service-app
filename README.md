@@ -13,3 +13,5 @@
 - Python
 - Streamlit
 - Firebase
+## 🎥 Demo Video
+https://drive.google.com/file/d/15sgXLwRPt893e7kxBHPGR58r6RqSGTUf/view?usp=drive_link
